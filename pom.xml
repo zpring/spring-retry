@@ -26,7 +26,7 @@
 		</license>
 	</licenses>
 	<properties>
-		<revision>2.0.14-SNAPSHOT</revision>
+		<revision>2.0.14</revision>
 		<disable.checks>false</disable.checks>
 		<java.version>17</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -37,8 +37,8 @@
 		<junit-jupiter.version>5.12.2</junit-jupiter.version>
 		<log4j.version>2.24.3</log4j.version>
 		<mockito.version>5.17.0</mockito.version>
-		<spring.framework.version>6.2.19</spring.framework.version>
-		<micrometer.version>1.15.12</micrometer.version>
+		<spring.framework.version>6.2.20</spring.framework.version>
+		<micrometer.version>1.15.13</micrometer.version>
 	</properties>
 
 	<scm>
